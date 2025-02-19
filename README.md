@@ -1,4 +1,4 @@
-Experimental code for the numerical experiments in the AISTATS2025 paper: "Permutation Invariant Multivariate Distribution Functions: Statistical Testing and Density Estimation".
+Experimental code for the numerical studies in the AISTATS2025 paper: "Permutation Invariant Multivariate Distribution Functions: Statistical Testing and Density Estimation".
 
 perm_inv_test.py and perm_inv_test_dim.py:
 
