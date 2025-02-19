@@ -7,7 +7,8 @@ The data set is generated from various multivariate normal distributions, we rep
 
 perm_inv_test_data_analysis.py:
 
-Demonstrate our multiplier bootstrap test of permutation invariance on real-world data sets which can be downloaded from UCI.
+Demonstrate our multiplier bootstrap test of permutation invariance on an arbitrary dataset. Load your dataset into the 'data' variable and run the code. 
+The real-world datasets in our numerical studies can be downloaded from UCI (see the reference in the paper).
 
 perm_inv_pairwise.r:
 
